@@ -1,5 +1,5 @@
 📘 JavaScript Notları ve Örnekler 
-
+ 
 Bu repository, JavaScript programlama dilini öğrenmek isteyenler için hazırlanmış örnek kodlar içermektedir. Amaç; JavaScript’in temelinden başlayarak, mantığını kavratmak ve bol örnekle pekiştirmektir.
 
 🎯 Amaç 
